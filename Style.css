@@ -137,7 +137,7 @@ main{
     height: 20rem;
     border-radius: 50%;
     /* background-color: #804444; */
-    background-image: url(/biglogo.jpeg);
+    background-image: url(/CodeDotCom/biglogo.jpeg);
     background-size: cover;
     justify-self: end;
     box-shadow: 8px 8px 3px #333333;
